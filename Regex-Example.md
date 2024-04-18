@@ -1,4 +1,4 @@
-# Regex Example
+# Regex-Email-Example
 This regex example is intended to help understand how the sequence of characters/special characters work together to verify a search term.<br /> 
 A <b>Regex</b> is a sequence of characters that defines a specific search pattern.
 
